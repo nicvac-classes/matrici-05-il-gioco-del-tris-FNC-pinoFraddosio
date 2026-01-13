@@ -123,6 +123,7 @@ class Esercizio {
             }
 
         }while(!vittoria && !pareggio);
+        
     }
 }
 
